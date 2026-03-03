@@ -18,9 +18,3 @@ I build functional web applications and leverage data analysis to create efficie
 
 * **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 * **Email:** raihanr.dev@gmail.com
-
----
-
-<p align="left">
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyourusername%26layout%3Dcompact%26theme%3Ddark)" alt="Top Langs" />
-</p>
