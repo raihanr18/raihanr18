@@ -16,5 +16,5 @@ I build functional web applications and leverage data analysis to create efficie
 
 ### 📫 Get in touch
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/raihan-ramadhan1/)
 * **Email:** raihanr.dev@gmail.com
