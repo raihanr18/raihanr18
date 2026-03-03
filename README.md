@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Raihan Ramadhan 👋
 
-<!--
-**raihanr18/raihanr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Web Developer | Data Analysis Enthusiast**
 
-Here are some ideas to get you started:
+I build functional web applications and leverage data analysis to create efficient, data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+* **Web:** PHP, Laravel, JavaScript, React, Next.js, Vue.js
+* **Data:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL (MySQL, PostgreSQL)
+* **Tools:** Git, REST APIs, Cisco Networking
+
+---
+
+### 📫 Get in touch
+
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **Email:** raihanr.dev@gmail.com
+
+---
+
+<p align="left">
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyourusername%26layout%3Dcompact%26theme%3Ddark)" alt="Top Langs" />
+</p>
